@@ -59,11 +59,13 @@ This project automates the process of retrieving real-time cryptocurrency market
 - Add alert notifications for high % changes
 - Expand to include more coins or timeframes
 
+---
+
 ## 👨‍💻 Author
 
 **Joshua Pratheek**  
-_Data Analyst | Python | Excel | Power BI_  
-🔗 [LinkedIn](https://www.linkedin.com/in/joshua-pratheek-aluri-261a8b305/) · 🌐 [GitHub]( https://github.com/joshp568)
+_Data Analyst | Python | SQL | Excel | Power BI_  
+🔗 [LinkedIn](https://www.linkedin.com/in/joshua-pratheek-aluri-261a8b305/) · 🌐 [GitHub](https://github.com/joshp568)
 
 ---
 
