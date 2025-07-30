@@ -37,7 +37,8 @@ This project automates the process of retrieving real-time cryptocurrency market
 ## 📸 Sample Output
 
 > 📈 *24-Hour Price Change Bar Chart*  
-> _Insert screenshot here (e.g., `Screenshot_Chart.png`)_
+> ![Dashboard Screenshot](Screenshot_chart.png)
+
 
 ---
 
